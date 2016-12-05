@@ -78,3 +78,6 @@ search:
   field: post
   format: html
   limit: 10000
+
+# Comment system
+disqus_shortname: jianwei-1
