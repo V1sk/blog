@@ -1,5 +1,7 @@
 ---
 title: Hello World
+categories:
+- Diary
 tags:
 - PS3
 - Games
