@@ -80,4 +80,4 @@ search:
   limit: 10000
 
 # Comment system
-#disqus_shortname: jianwei-1
+disqus_shortname: jianwei-1
